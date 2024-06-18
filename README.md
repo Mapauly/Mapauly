@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Kelvin Lau, an undergraduate student majoring in artificial intelligence at Northeastern University(China). 
+- 👋 Hi, I’m Yuhao Liu, an undergraduate student majoring in artificial intelligence at Northeastern University(China). 
 - 👀 I’m interested LLM, NLP, HCI and Information retrieval.
 - 🌱 I am looking for engineering or research internship opportunities.
-- 📫 How to reach me Email：kelvin.lau.cn@outlook.com
-- 📖 Personal website: https://10-oasis-01.github.io
+- 📫 How to reach me Email：2676907137@qq.com
 
 
 <!---
